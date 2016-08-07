@@ -1,0 +1,13 @@
+.mdl-layout--fixed-drawer.right.is-upgraded:not(.is-small-screen) {
+
+  & > .mdl-layout__drawer {
+    right: 0;
+    left: initial;
+  }
+
+  & > *:not(.mdl-layout__drawer) {
+    margin-left: 0;
+    margin-right: 240px;
+  }
+
+}

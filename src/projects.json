@@ -1,0 +1,10 @@
+{
+  "data": {
+    "projects": [
+      {
+        "name": "Hello world!",
+        "slug": "hello-world"
+      }
+    ]
+  }
+}
